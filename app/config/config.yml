@@ -35,7 +35,7 @@ framework:
 twig:
     debug:            "%kernel.debug%"
     strict_variables: "%kernel.debug%"
-    exception_controller: ChitaikaAppBundle:Exception:redirect
+    #exception_controller: ChitaikaAppBundle:Exception:redirect
 
 # Assetic Configuration
 assetic:
