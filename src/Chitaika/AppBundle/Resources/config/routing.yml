@@ -1,0 +1,3 @@
+chitaika_app_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: ChitaikaAppBundle:Default:index }

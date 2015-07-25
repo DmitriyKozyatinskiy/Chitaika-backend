@@ -1,0 +1,7 @@
+chitaika_app:
+    resource: "@ChitaikaAppBundle/Resources/config/routing.yml"
+    prefix:   /
+
+NelmioApiDocBundle:
+    resource: "@NelmioApiDocBundle/Resources/config/routing.yml"
+    prefix:   /api/doc
