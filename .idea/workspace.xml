@@ -69,14 +69,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PageLoader.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PageLoader.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chitaika/AppBundle/Service/PageLoader.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.292599" vertical-offset="65" max-vertical-offset="1156">
+            <state vertical-scroll-proportion="-28.884615" vertical-offset="65" max-vertical-offset="1156">
               <caret line="48" column="101" selection-start-line="48" selection-start-column="101" selection-end-line="48" selection-end-column="101" />
               <folding>
                 <element signature="e#46#90#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.087628864" vertical-offset="0" max-vertical-offset="582">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -137,6 +147,7 @@
         <option value="$PROJECT_DIR$/src/Chitaika/AppBundle/Resources/config/services.yml" />
         <option value="$PROJECT_DIR$/src/Chitaika/AppBundle/Command/GetGenresCommand.php" />
         <option value="$PROJECT_DIR$/src/Chitaika/AppBundle/Service/PageLoader.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -638,13 +649,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.64" vertical-offset="408" max-vertical-offset="1326">
-          <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="607">
@@ -881,11 +885,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chitaika/AppBundle/Service/PageLoader.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.292599" vertical-offset="65" max-vertical-offset="1156">
+        <state vertical-scroll-proportion="-28.884615" vertical-offset="65" max-vertical-offset="1156">
           <caret line="48" column="101" selection-start-line="48" selection-start-column="101" selection-end-line="48" selection-end-column="101" />
           <folding>
             <element signature="e#46#90#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.087628864" vertical-offset="0" max-vertical-offset="582">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
