@@ -20,7 +20,9 @@
         "incenteev/composer-parameter-handler": "~2.0",
         "jms/serializer-bundle": "~0.9",
         "friendsofsymfony/rest-bundle": "~1.6",
-        "nelmio/api-doc-bundle": "~2.9"
+        "nelmio/api-doc-bundle": "~2.9",
+        "misd/guzzle-bundle": "~1.0",
+        "symfony/dom-crawler": "*"
     },
     "require-dev": {
         "sensio/generator-bundle": "~2.3"

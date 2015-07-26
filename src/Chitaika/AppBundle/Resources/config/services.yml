@@ -1,1 +1,14 @@
 services:
+    guzzle.client:
+        class: %guzzle.client.class%
+        tags:
+            -  { name: guzzle.client }
+        calls:
+            -  [ setConfig, [ %guzlle.options% ] ]
+    page_loader:
+        class:        Chitaika\AppBundle\Service\PageLoader
+        arguments:
+            - @doctrine
+            - @guzzle.client
+            - @jms_serializer
+            - @monolog.logger
