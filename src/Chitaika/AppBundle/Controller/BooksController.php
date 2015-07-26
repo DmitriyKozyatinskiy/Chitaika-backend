@@ -3,6 +3,7 @@
 namespace Chitaika\AppBundle\Controller;
 
 use FOS\RestBundle\Controller\FOSRestController;
+use FOS\RestBundle\Controller\Annotations\View;
 
 class BooksController extends FOSRestController
 {
