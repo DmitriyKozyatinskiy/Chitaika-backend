@@ -9,6 +9,8 @@ class ExceptionController extends Controller
 {
     public function redirectAction(Request $request)
     {
-        return $this->render('ChitaikaAppBundle:Default:index.html.twig');
+        $url = $this->generateUrl('home') . '#' . substr($request->getPathInfo(), 1);
+
+        return $this->redirect($url);
     }
 }

@@ -1,5 +1,1 @@
 services:
-    kernel.listener.exception_listener:
-        class: Chitaika\AppBundle\EventListener\ExceptionListener
-        tags:
-            - { name: kernel.event_listener, event: kernel.exception, method: onKernelException }
