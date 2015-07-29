@@ -1,4 +1,4 @@
 Chitaika backend
 ========================
 
-# Awesome REST API for the Chitaika project :)
+## Awesome Chitaika project :)

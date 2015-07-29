@@ -11,6 +11,8 @@ class DefaultController extends Controller
     public function indexAction()
     {
         $pageLoader = $this->get('page_loader');
+
+        //Temp, move it to console command later
         $itemsNumber = $pageLoader->getGenres();
 
 //        $client = new Client('http://www.litmir.co');
