@@ -1,10 +1,8 @@
 services:
     guzzle.client:
-        class: %guzzle.client.class%
+        class: %guzzle.http_client.class%
         tags:
-            -  { name: guzzle.client }
-        calls:
-            -  [ setConfig, [ %guzlle.options% ] ]
+            -  { name: guzzle.http_client }
     page_loader:
         class:        Chitaika\AppBundle\Service\PageLoader
         arguments:

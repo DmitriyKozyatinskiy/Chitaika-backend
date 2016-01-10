@@ -21,7 +21,7 @@
         "jms/serializer-bundle": "~0.9",
         "friendsofsymfony/rest-bundle": "~1.6",
         "nelmio/api-doc-bundle": "~2.9",
-        "misd/guzzle-bundle": "~1.0",
+        "eightpoints/guzzle-bundle": "*",
         "symfony/dom-crawler": "*"
     },
     "require-dev": {

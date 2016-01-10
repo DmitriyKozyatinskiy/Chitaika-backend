@@ -3,10 +3,7 @@
 namespace Chitaika\AppBundle\Service;
 
 use Doctrine\Bundle\DoctrineBundle\Registry;
-use Guzzle\Http\Exception\BadResponseException;
-use Guzzle\Http\Exception\ClientErrorResponseException;
-use Guzzle\Http\Exception\ServerErrorResponseException;
-use Guzzle\Service\Client;
+use GuzzleHttp\Client;
 use JMS\Serializer\Serializer;
 use JMS\Serializer\SerializationContext;
 use Symfony\Bridge\Monolog\Logger;

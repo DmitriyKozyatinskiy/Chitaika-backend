@@ -20,7 +20,7 @@ class AppKernel extends Kernel
             new FOS\RestBundle\FOSRestBundle(),
             new Nelmio\ApiDocBundle\NelmioApiDocBundle(),
             new Chitaika\AppBundle\ChitaikaAppBundle(),
-            new Misd\GuzzleBundle\MisdGuzzleBundle(),
+            new \EightPoints\Bundle\GuzzleBundle\GuzzleBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {
