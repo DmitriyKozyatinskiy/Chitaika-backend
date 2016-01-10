@@ -1,0 +1,12 @@
+services:
+    guzzle.client:
+        class: %guzzle.http_client.class%
+        tags:
+            -  { name: guzzle.http_client }
+    page_loader:
+        class:        Chitaika\AppBundle\Service\PageLoader
+        arguments:
+            - @doctrine
+            - @guzzle.client
+            - @jms_serializer
+            - @monolog.logger

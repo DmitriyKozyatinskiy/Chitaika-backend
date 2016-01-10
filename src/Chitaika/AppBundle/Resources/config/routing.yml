@@ -1,0 +1,6 @@
+home:
+    path:     /
+    defaults: { _controller: ChitaikaAppBundle:Default:index }
+books:
+    type:     rest
+    resource: Chitaika\AppBundle\Controller\BooksController
