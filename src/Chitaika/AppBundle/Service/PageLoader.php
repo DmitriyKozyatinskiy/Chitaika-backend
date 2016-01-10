@@ -90,7 +90,7 @@ class PageLoader extends PageLoaderAbstract
                 'exp_id' => '1086410034724403'
             ]
         ]);
-        
+
         return $job->getBody();//$response->getBody();//$itemsNumber;
     }
 }
