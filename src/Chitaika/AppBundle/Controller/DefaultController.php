@@ -21,7 +21,7 @@ class DefaultController extends Controller
 //        $result = $response->getBody();
 
         return new Response(
-            542
+            $itemsNumber
         );
     }
 }

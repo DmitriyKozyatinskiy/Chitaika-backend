@@ -28,7 +28,11 @@
       <file leaf-file-name="PageLoaderAbstract.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chitaika/AppBundle/Service/PageLoaderAbstract.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="-0.0" vertical-offset="170" max-vertical-offset="1377">
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="1377">
+>>>>>>> 022f1bf615a255de38f4ee43991a2c23ff10217f
               <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="e#46#90#0#PHP" expanded="true" />
@@ -40,8 +44,13 @@
       <file leaf-file-name="PageLoader.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chitaika/AppBundle/Service/PageLoader.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="-4.8461537" vertical-offset="1149" max-vertical-offset="1717">
               <caret line="75" column="13" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
+=======
+            <state vertical-scroll-proportion="-7.4615383" vertical-offset="1149" max-vertical-offset="1717">
+              <caret line="79" column="17" selection-start-line="79" selection-start-column="17" selection-end-line="79" selection-end-column="17" />
+>>>>>>> 022f1bf615a255de38f4ee43991a2c23ff10217f
               <folding>
                 <element signature="e#46#90#0#PHP" expanded="true" />
               </folding>
@@ -92,8 +101,13 @@
       <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Chitaika/AppBundle/Controller/DefaultController.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.6437177" vertical-offset="0" max-vertical-offset="581">
               <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+=======
+            <state vertical-scroll-proportion="0.29259896" vertical-offset="0" max-vertical-offset="581">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+>>>>>>> 022f1bf615a255de38f4ee43991a2c23ff10217f
               <folding />
             </state>
           </provider>
@@ -109,6 +123,19 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+=======
+      <file leaf-file-name="routing.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chitaika/AppBundle/Resources/config/routing.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="187">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> 022f1bf615a255de38f4ee43991a2c23ff10217f
       <file leaf-file-name="services.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chitaika/AppBundle/Resources/config/services.yml">
           <provider selected="true" editor-type-id="text-editor">
@@ -136,6 +163,10 @@
         <option value="$PROJECT_DIR$/src/Chitaika/AppBundle/Command/GetGenresCommand.php" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Chitaika/AppBundle/Controller/ExceptionController.php" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/src/Chitaika/AppBundle/Controller/DefaultController.php" />
+>>>>>>> 022f1bf615a255de38f4ee43991a2c23ff10217f
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/src/Chitaika/AppBundle/Resources/config/services.yml" />
         <option value="$PROJECT_DIR$/src/Chitaika/AppBundle/Service/PageLoaderAbstract.php" />
@@ -143,7 +174,10 @@
         <option value="$PROJECT_DIR$/app/config/config_prod.yml" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/app/AppKernel.php" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/Chitaika/AppBundle/Controller/DefaultController.php" />
+=======
+>>>>>>> 022f1bf615a255de38f4ee43991a2c23ff10217f
       </list>
     </option>
   </component>
@@ -399,9 +433,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
           <folding>
             <element signature="e#49#97#0#PHP" expanded="true" />
           </folding>
+=======
+>>>>>>> 022f1bf615a255de38f4ee43991a2c23ff10217f
         </state>
       </provider>
     </entry>
@@ -654,6 +691,16 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/src/Chitaika/AppBundle/Controller/BooksController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="476">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 022f1bf615a255de38f4ee43991a2c23ff10217f
     <entry file="file://$PROJECT_DIR$/src/Chitaika/AppBundle/Service/GenresLoader.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-38.576923" vertical-offset="0" max-vertical-offset="1224">
@@ -752,6 +799,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Chitaika/AppBundle/Controller/BooksController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.26333907" vertical-offset="0" max-vertical-offset="581">
@@ -766,6 +814,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.8461537" vertical-offset="1149" max-vertical-offset="1717">
           <caret line="75" column="13" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/Chitaika/AppBundle/Service/PageLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.4615383" vertical-offset="1149" max-vertical-offset="1717">
+          <caret line="79" column="17" selection-start-line="79" selection-start-column="17" selection-end-line="79" selection-end-column="17" />
+>>>>>>> 022f1bf615a255de38f4ee43991a2c23ff10217f
           <folding>
             <element signature="e#46#90#0#PHP" expanded="true" />
           </folding>
@@ -774,8 +828,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chitaika/AppBundle/Controller/DefaultController.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.6437177" vertical-offset="0" max-vertical-offset="581">
           <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+=======
+        <state vertical-scroll-proportion="0.29259896" vertical-offset="0" max-vertical-offset="581">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+>>>>>>> 022f1bf615a255de38f4ee43991a2c23ff10217f
           <folding />
         </state>
       </provider>
